@@ -1,3 +1,3 @@
 # JavaScript Challenges from CodeWars and FreeCodeCamp
-> Those are my solutions of some encountered JavaScript challenges [@codewars](https://www.codewars.com/) and [@freecodecamp](https://www.freecodecamp.org/).
+> These are my solutions of some encountered JavaScript challenges [@codewars](https://www.codewars.com/) and [@freecodecamp](https://www.freecodecamp.org/) and other sources.
 > Tests are performed in Jest.
