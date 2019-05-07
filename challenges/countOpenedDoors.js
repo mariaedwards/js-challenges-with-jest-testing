@@ -11,8 +11,8 @@
  * * Finally, when the last one – the n-th – comes to the school,
  * * he changes the status of each n-th door (there's only one such door, though).
  * TODO: You need to count how many doors are left opened after all the students have come.
- * ! Variant Rosetta 100 Doors from https://rosettacode.org/wiki/100_doors
  * ? or
+ * ! Variant Rosetta 100 Doors from https://rosettacode.org/wiki/100_doors
  * TODO: What state are the doors in after the last pass?   Which are open, which are closed?
  * @example
  * solution(5) // => 2
